@@ -1,0 +1,3 @@
+1- use git well : including add, pull, push and VI editor.
+2- create a folder for your group inside "task 0" folder and create an arabic file to ducoment the step you used.
+ 
