@@ -1,2 +1,2 @@
 # training
-this is a training reposity 
+this is a training repo
